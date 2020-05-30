@@ -1,4 +1,4 @@
-Creating the website for the VeloTour Festival. This is work in progress.
+Creating the website for Welcome to My Garden. This is work in progress.
 
 Spectral by HTML5 UP
 html5up.net | @ajlkn
